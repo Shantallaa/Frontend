@@ -60,8 +60,8 @@ Markdown cheat cheet: [Hulp bij het schrijven van Markdown](https://github.com/a
 
 **Je focus:** -Ik wil focussen op de surface plane. Als ik aan het einde van het blok nog voldoende tijd over heb m.b.t. andere vakken dan wil ik ook de responsivenes aanpakken. -
 
-**Je opdracht:** -Ik weet nog niet zo goed wat ik moet kiezen maar ik heb wel een paar websites die ik super tof vind. Ik weet alleen niet of het aansluit bij wat ik kan...
-	- https://www.urbaninfluence.com/work/chefn/
+**Je opdracht:** - Ik heb gekozen om de website van Fourdesire na te maken. Ik vind dat deze website mooi is vormgegeven en na het maken van de breakdown schetsen denk ik dat er in de HTML nog wel wat te verbeteren is. -
+
 	- https://fourdesire.com/en/ - 
 
 
