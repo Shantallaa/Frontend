@@ -85,7 +85,12 @@ main > h1 {
 
 main > img {
 	width: 100%;
-	margin-top: 80px;
+	margin-top: 70px;
+    background-image: url(/images/page-home-hero-image.jpg);
+    /*transform: translate3d(0px, 0px, 0px);*/
+    background-size: cover;
+    height: 125%!important;
+    top: -25%!important;
 }
 
 h2 {
