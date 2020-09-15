@@ -21,6 +21,16 @@ a {
 	color: #ffffff;
 }
 
+body {
+	background: repeating-linear-gradient(
+  -45deg,
+  #121212,
+  #121212 3px,
+  #15181D 0px,
+  #15181D 65px
+);
+}
+
 /* Header */
 
 header {
@@ -31,7 +41,9 @@ header {
 	position: fixed;
   	top: 0;
   	width: 100%;
-  	background-color: #15181e;
+  	
+  	z-index: 300;
+  	
 	
 }
 
@@ -64,12 +76,17 @@ nav a img {
 	width: 35%;
 }
 
+/* Main */
+
 main {
-	padding: 100px 20px 20px 20px;
-	background-color: #15181e;
+	/*padding: 100px 20px 20px 20px;*/
 }
 
-main > h1 {
+article:nth-of-type(1) {
+	position: relative;
+}
+
+article:nth-of-type(1) h1 {
 	font-family: 'Oswald', sans-serif;
 	font-size: 2em;
 	font-weight: 500;
@@ -77,20 +94,29 @@ main > h1 {
 	position: fixed;
   	top: 0;
   	width: 100%;
-  	margin-top: 100px;
+  	margin-top: 150px;
   	background-color: none;
-
-
+  	z-index: 299;
 }
 
-main > img {
+main article:nth-of-type(1) img:nth-of-type(1) {
+	width: 60%;
+	margin-left: -150px;
+	margin-top: 100px;
+	position: absolute;
+	z-index: -1;
+}
+
+main article:nth-of-type(1) img:nth-of-type(2) {
 	width: 100%;
-	margin-top: 70px;
-    background-image: url(/images/page-home-hero-image.jpg);
+	margin-top: 220px;
+	/*position: absolute;
+	z-index: 2;*/
+    /*background-image: url(/images/page-home-hero-image.jpg);*/
     /*transform: translate3d(0px, 0px, 0px);*/
-    background-size: cover;
+    /*background-size: cover;
     height: 125%!important;
-    top: -25%!important;
+    top: -25%!important;*/
 }
 
 h2 {
@@ -100,15 +126,15 @@ h2 {
     font-weight: 400;
 }
 
-article:nth-of-type(1) {
-	margin-top: 300px;
-}
-
 article:nth-of-type(2) {
+	margin-top: 500px;
+}
+
+article:nth-of-type(3) {
 	margin-top: 300px;
 }
 
-article:nth-of-type(2) a {
+article:nth-of-type(3) a {
 	border-left: 1px solid #86ffff;
     border-right: 1px solid #01d7fe;
 	margin-top: 20px;
@@ -120,7 +146,7 @@ article:nth-of-type(2) a {
     cursor: pointer;
 }
 
-article:nth-of-type(2) a::before {
+article:nth-of-type(3) a::before {
 	content: " ";
     position: absolute;
     width: 100%;
@@ -130,7 +156,7 @@ article:nth-of-type(2) a::before {
     background: linear-gradient(to right,#86FFFF,#01D7FE);
 }
 
-article:nth-of-type(2) a::after {
+article:nth-of-type(3) a::after {
 	content: " ";
     position: absolute;
     width: 100%;
@@ -140,9 +166,10 @@ article:nth-of-type(2) a::after {
     background: linear-gradient(to right,#86FFFF,#01D7FE);
 }
 
-article:nth-of-type(3) {
+article:nth-of-type(4) {
 	margin-top: 300px;
 
 }
+
 
 

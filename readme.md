@@ -6,7 +6,7 @@ Markdown cheat cheet: [Hulp bij het schrijven van Markdown](https://github.com/a
 
 
 ## Bronnenlijst
-1. -bron 1-
+1. https://css-tricks.com/stripes-css/
 2. -bron 2-
 3. -...-
 
@@ -38,11 +38,13 @@ Markdown cheat cheet: [Hulp bij het schrijven van Markdown](https://github.com/a
 
 ### Stand van zaken
 
--dit ging goed & dit was lastig-
+-Alle opdrachten die we kregen voor de les gingen wel soepel. Af en toe met enige opstakel door iets verkeerd te schrijven of iets bij het verkeerde element te zetten. De website heb ik nu ook een beginnetje aan gemaakt en gaat ook wel redelijk. Ik vind het alleen lastig om het echt al helemaal na te maken met HTML/CSS. -
 
 **Screenshot(s):**
 
--screenshot(s) van hoe ver je bent-
+![screenshot(s)](images/screenshot5.png)
+![screenshot(s)](images/screenshot6.png)
+![screenshot(s)](images/screenshot7.png)
 
 ### Agenda voor meeting
 
@@ -60,14 +62,15 @@ Markdown cheat cheet: [Hulp bij het schrijven van Markdown](https://github.com/a
 
 **Je focus:** -Ik wil focussen op de surface plane. Als ik aan het einde van het blok nog voldoende tijd over heb m.b.t. andere vakken dan wil ik ook de responsivenes aanpakken. -
 
-**Je opdracht:** -Ik weet nog niet zo goed wat ik moet kiezen maar ik heb wel een paar websites die ik super tof vind. Ik weet alleen niet of het aansluit bij wat ik kan...
-	- https://www.urbaninfluence.com/work/chefn/
-	- https://fourdesire.com/en/ - 
+**Je opdracht:** -Ik ga voor de website Fourdesire (https://fourdesire.com/en/). Ik zou het super vet vinden als ik dit visueel kan na maken. Inclusief met de bewegende onderdelen. 
 
 
 **Screenshot(s):**
 
-![screenshot(s) die een goed beeld geven van de website die je gaat maken](images/dummy-image.svg)
+![screenshot(s) die een goed beeld geven van de website die je gaat maken](images/screenshot1.png)
+![screenshot(s) die een goed beeld geven van de website die je gaat maken](images/screenshot2.png)
+![screenshot(s) die een goed beeld geven van de website die je gaat maken](images/screenshot3.png)
+![screenshot(s) die een goed beeld geven van de website die je gaat maken](images/screenshot4.png)
 
 **Breakdown-schets(en):**
 
