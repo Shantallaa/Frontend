@@ -6,8 +6,8 @@ Markdown cheat cheet: [Hulp bij het schrijven van Markdown](https://github.com/a
 
 
 ## Bronnenlijst
-1. https://css-tricks.com/stripes-css/
-2. -bron 2-
+1. https://css-tricks.com/stripes-css/ Voor de achtergrond
+2. https://codepen.io/erikterwan/pen/EVzeRP Voor de hamburger menu
 3. -...-
 
 

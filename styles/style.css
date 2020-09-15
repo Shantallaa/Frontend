@@ -171,5 +171,83 @@ article:nth-of-type(4) {
 
 }
 
+nav div {
+	position: relative;
+	border: 2px solid #a6a6a6;
+	width: 32px;
+    height: 32px;
+    padding: 7px 4px;
+}
+
+nav div span
+{
+  display: block;
+  width: 20px;
+  height: 2px;
+  margin-bottom: 4px;
+  position: relative;
+  
+  background: #a6a6a6;
+  
+  z-index: 1;
+  
+  transform-origin: 4px 0px;
+  
+  transition: transform 0.5s cubic-bezier(0.77,0.2,0.05,1.0),
+              background 0.5s cubic-bezier(0.77,0.2,0.05,1.0),
+              opacity 0.55s ease;
+}
+
+nav div span:nth-last-child(1) {
+	margin-bottom: 0px;
+}
+
+ nav div span:first-child
+{
+  transform-origin: 0% 0%;
+} 
+
+.menu div {
+	transform: rotate(-45deg);
+	transition: 0.5s ease;
+
+}
+.menu div span:nth-last-child(3) /*Onderste*/
+{
+  transform: rotate(90deg) translate(-3px, -11px);
+}
+
+.menu div span:nth-last-child(2) /*Middelste*/
+{
+  opacity: 0;
+  transform: rotate(90deg) scale(0.2, 0.2);
+}
+
+.menu div span:nth-last-child(1) /*Bovendste*/
+{
+  transform: rotate(0deg) translate(0px, -6px);
+}
+
+nav > ul {
+  position: absolute;
+  width: 300px;
+  padding: 50px;
+  padding-top: 125px;
+  list-style-type: none;
+  transform: translate(-50em, 20em);
+  transition: transform 0.2s;
+}
+
+.menu ul 
+{
+  transform: translate(-20em, 1em);
+  background: repeating-linear-gradient(
+  -45deg,
+  #121212,
+  #121212 3px,
+  #15181D 0px,
+  #15181D 65px);
+}
+
 
 
