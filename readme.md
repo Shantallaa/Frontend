@@ -42,9 +42,9 @@ Markdown cheat cheet: [Hulp bij het schrijven van Markdown](https://github.com/a
 
 **Screenshot(s):**
 
-![screenshot(s)](images/screenshot5.png)
-![screenshot(s)](images/screenshot6.png)
-![screenshot(s)](images/screenshot7.png)
+![screenshot(s)](images/Screenshot5.png)
+![screenshot(s)](images/Screenshot6.png)
+![screenshot(s)](images/Screenshot7.png)
 
 ### Agenda voor meeting
 
@@ -68,9 +68,9 @@ Markdown cheat cheet: [Hulp bij het schrijven van Markdown](https://github.com/a
 **Screenshot(s):**
 
 ![screenshot(s) die een goed beeld geven van de website die je gaat maken](images/screenshot1.png)
-![screenshot(s) die een goed beeld geven van de website die je gaat maken](images/screenshot2.png)
-![screenshot(s) die een goed beeld geven van de website die je gaat maken](images/screenshot3.png)
-![screenshot(s) die een goed beeld geven van de website die je gaat maken](images/screenshot4.png)
+![screenshot(s) die een goed beeld geven van de website die je gaat maken](images/Screenshot2.png)
+![screenshot(s) die een goed beeld geven van de website die je gaat maken](images/Screenshot3.png)
+![screenshot(s) die een goed beeld geven van de website die je gaat maken](images/Screenshot4.png)
 
 **Breakdown-schets(en):**
 
