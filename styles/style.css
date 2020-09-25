@@ -1,4 +1,4 @@
-s/* CSS Document */
+/* CSS Document */
 *, *::after, *::before {
   box-sizing:border-box;  
   margin: 0; padding: 0;
@@ -28,14 +28,14 @@ body {
   #121212,
   #121212 3px,
   #15181e 0px,
-  #15181e 65px
+  #15181e 64px
 );
 }
 
 /* Header */
 
 header {
-	margin: 0; padding: 1em;
+	margin: 1em 0; padding: 1em;
 	display: flex;
 	justify-content: space-between;
 	align-items: center;
@@ -51,7 +51,7 @@ header a {
 }
 
 header > a img {
-	width: 13%;
+	width: 10%;
 }
 
 header a p {
@@ -122,35 +122,36 @@ nav {
   left: 0;
   height: 100vh;
   width: 100%;
+  margin-top: 75px;
   transform: translate(-100%, 100%);
   transition: transform 0.5s;
-  background: rgba(18, 18, 18, 0.6); 
 }
 
 .menu nav {
-  transform: translate(0%, 0%);
+  transform: translate(5%, 0%);
 }
 
 nav ul {
   list-style-type: none;
-  /*margin-top: 30px; Krijgt geen margin*/
+  
 }
 
 nav ul li {
   font-size: 1.5em;
-  margin: 1.5em;
+  margin: 1.2em;
 }
 
 .menu + main {
-  transform: translate(15%, -15%);
+  transform: translate(60%, -15%);
+  opacity: 0.2;
 }
 
 /* Main */
 
 main {
   transform: translate(0%, 0%);
-  transition: transform 1s;
-	/*padding: 100px 20px 20px 20px;*/
+  transition: transform 0.3s;
+  opacity: 1;
 }
 
 article:nth-of-type(1) {
@@ -191,7 +192,7 @@ h2 {
 }
 
 article:nth-of-type(2) {
-	margin-top: 500px;
+	margin-top: 300px;
 }
 
 article:nth-of-type(3) {
