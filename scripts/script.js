@@ -1,7 +1,9 @@
 // // JavaScript Document
-menuButton = document.querySelector("nav div")
-nav = document.querySelector("nav")
+var menuButton = document.querySelector("header button");
+var header = document.querySelector("header");
 
-function menuClass() { nav.classList.toggle('menu');}
+function menuClass() { 
+	header.classList.toggle('menu');
+}
 
-menuButton.addEventListener("click", menuClass)
+menuButton.addEventListener("click", menuClass);
