@@ -30,7 +30,23 @@ Markdown cheat cheet: [Hulp bij het schrijven van Markdown](https://github.com/a
 
 ## Voortgang 2 (week 5)
 
--same as voortgang 1-
+### Stand van zaken
+
+- De meeste opdrachten gingen wel soepel, heb nog beetje moeite met grid maar dat komt meer omdat ik het nog niet zoveel heb toegepast dus niet helemaal weet hoe het werkt. Over mn website ben ik al wel redelijk tevreden, de meeste dingen zijn me al wel gelukt, nu alleen zorgen dat de website beetje responsive is en meer focussen op de surface plane. -
+
+**Screenshot(s):**
+
+![screenshot(s)](images/Home.week5.png)
+![screenshot(s)](images/Menu.week5.png)
+![screenshot(s)](images/Artikel.week5.png)
+
+### Agenda voor meeting
+
+-samen met je groepje opstellen-
+
+### Verslag van meeting
+
+-na afloop snel uitkomsten vastleggen-
 
 
 

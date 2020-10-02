@@ -164,7 +164,7 @@ ul li a {
 
 main {
   overflow-x: hidden;
-  transition: transform 0.4s ease-out;
+  transition: transform 0.4s;
   opacity: 1;
   margin: 20px;
   overflow: visible;
