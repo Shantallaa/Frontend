@@ -150,6 +150,10 @@ ul li a {
   opacity: 0.05;
 }
 
+.menu + main img {
+
+}
+
 /* Main */
 
 main {
@@ -333,6 +337,7 @@ article:nth-of-type(7) a:hover {
     position: relative;
     margin-top: 0px;
     transform: translate(0%, 0%);
+    transition: none;
   }
 
   nav ul {
@@ -347,6 +352,7 @@ article:nth-of-type(7) a:hover {
 
   nav ul li a {
     color: #a6a6a6;
+    white-space: nowrap;
   }
 
   nav ul li:first-of-type {
