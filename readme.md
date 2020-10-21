@@ -1,14 +1,12 @@
 # Procesverslag
 **Auteur:** Shantalla de Blaeij
 
-Markdown cheat cheet: [Hulp bij het schrijven van Markdown](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet). Nb. de standaardstructuur en de spartaanse opmaak zijn helemaal prima. Het gaat om de inhoud van je procesverslag. Besteedt de tijd voor pracht en praal aan je website.
-
 
 
 ## Bronnenlijst
 1. https://css-tricks.com/stripes-css/ Voor de achtergrond
 2. https://codepen.io/erikterwan/pen/EVzeRP Voor de hamburger menu
-3. -...-
+3. https://gomakethings.com/how-to-test-if-an-element-is-in-the-viewport-with-vanilla-javascript/ Voor het in en uitvliegen van de h2'tjes
 
 
 
@@ -24,7 +22,7 @@ Markdown cheat cheet: [Hulp bij het schrijven van Markdown](https://github.com/a
 
 ## Voortgang 3 (week 6)
 
--same as voortgang 1-
+Alles loopt wel soepeltjes. Moet voor mn gevoel wel nog veel doen!! Zoals het responsive maken van de artikels. EN nog veel meer toevoegen aan de surface plane.
 
 
 
@@ -42,11 +40,11 @@ Markdown cheat cheet: [Hulp bij het schrijven van Markdown](https://github.com/a
 
 ### Agenda voor meeting
 
--samen met je groepje opstellen-
+-
 
 ### Verslag van meeting
 
--na afloop snel uitkomsten vastleggen-
+
 
 
 
@@ -64,11 +62,11 @@ Markdown cheat cheet: [Hulp bij het schrijven van Markdown](https://github.com/a
 
 ### Agenda voor meeting
 
--samen met je groepje opstellen-
+- Maken van menu bespreken
 
 ### Verslag van meeting
 
--na afloop snel uitkomsten vastleggen-
+- Nog veel te doen voor mijzelf
 
 
 
