@@ -11,9 +11,38 @@ menuButton.addEventListener("click", menuClass);
 
 
 
-window.addEventListener('scroll', function(e) {
-  element.getBoundingClientRect().top < 50 ? showHeader : hideHeader();
-});
+// Bron: https://gomakethings.com/how-to-test-if-an-element-is-in-the-viewport-with-vanilla-javascript/
+
+var h2 = document.querySelectorAll('h2');
+
+var isInViewport = function (element) {
+    var header = element.getBoundingClientRect("h2");
+    return (
+        header.top >= 50 &&
+        header.left >= 0 &&
+        header.bottom <= -500 + (window.innerHeight || document.documentElement.clientHeight) &&
+        header.right <= (window.innerWidth || document.documentElement.clientWidth)
+    );
+};
+
+
+function toggle () {
+	if (isInViewport(h2)) {
+    h2.classList.add('show')
+    }
+	else {
+	h2.classList.remove('show')
+
+
+	}
+}
+
+window.addEventListener('scroll',toggle);
+
+
+// window.addEventListener('scroll', function(e) {
+//   element.getBoundingClientRect().top < 50 ? showHeader : hideHeader();
+// });
 
 
 // Bron: https://jsfiddle.net/pvn4esg0/4/
@@ -23,6 +52,7 @@ window.addEventListener('scroll', function(e) {
     //     <h1>Creating Fun</h1>
     //     <h1 class='verander'>Expanding Horizons</h1>
     //   </div>
+    //  + ID namen voor de articles
 
 // function sticky_relocate() {
 // var window_top = $(window).scrollTop();
