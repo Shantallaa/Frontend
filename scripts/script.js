@@ -12,22 +12,14 @@ menuButton.addEventListener("click", menuClass);
 
 // Bron: https://gomakethings.com/how-to-test-if-an-element-is-in-the-viewport-with-vanilla-javascript/
 
-
-var h2_1 = document.getElementsByTagName("h2")[1];
-var h2_2 = document.getElementsByTagName("h2")[3];
-var h2_3 = document.getElementsByTagName("h2")[5];
-var h2_4 = document.getElementsByTagName("h2")[7];
-var h2_5 = document.getElementsByTagName("h2")[9];
-var h2_6 = document.getElementsByTagName("h2")[11];
-
-var alleH2 = [h2_1, h2_2, h2_3, h2_4, h2_5, h2_6]
+var alleH2 = document.getElementsByTagName("h2");
 
 var isInViewport = function (element) {
     var header = element.getBoundingClientRect("");
     return (
-        header.top >= 160 &&
+        header.top >= 120 &&
         header.left >= 0 &&
-        header.bottom <= -500 + (window.innerHeight || document.documentElement.clientHeight) &&
+        header.bottom <= -400 + (window.innerHeight || document.documentElement.clientHeight) &&
         header.right <= (window.innerWidth || document.documentElement.clientWidth)
     );
 };
