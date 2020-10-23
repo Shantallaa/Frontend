@@ -12,11 +12,11 @@
 
 ## Eindgesprek (week 7/8)
 
--dit ging goed & dit was lastig-
+- Ik vond het leuk om de visual effect te kunnen programmeren. Verder vindt ik het responsive maken wel erg lastig. En ik vond het erg lastig om in te schatten hoe hoog je de lat voor jezelf moest leggen. In het begin van het val vond ik het allemaal een beetje makkelijk en saai,de theorie snapte ik allemaal maar om dan alles samen toe te passen in een website vind ik lastig.
 
 **Screenshot(s):**
 
--screenshot(s) van je eindresultaat-
+--
 
 
 
