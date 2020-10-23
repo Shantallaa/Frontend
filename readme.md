@@ -20,7 +20,7 @@
 ![screenshot(s)](images/eind2.png)
 ![screenshot(s)](images/eind3.png)
 ![screenshot(s)](images/eind4.png)
-![screenshot(s)](images/eind5l.png)
+![screenshot(s)](images/eind5.png)
 
 
 
